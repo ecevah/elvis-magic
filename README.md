@@ -1,6 +1,6 @@
 # Elvis Magic - NFT Promotional Page
 
-<img src="./public/home.png" alt="Elvis Magic Home" width="300"/>
+![Elvis Magic](./public/home.png)
 
 ## Overview
 
@@ -17,16 +17,16 @@
 ## Pages
 
 - **Home**: Welcome to the world of Elvis Magic NFTs.
-  <img src="./public/home.png" alt="Home" width="300"/>
+  ![Home](./public/home.png)
 
 - **About**: Learn more about the vision behind Elvis Magic.
-  <img src="./public/about.png" alt="About" width="300"/>
+  ![About](./public/about.png)
 
 - **Partners**: Meet our amazing partners supporting the project.
-  <img src="./public/partner.png" alt="Partners" width="300"/>
+  ![Partner](./public/partner.png)
 
 - **Tier System**: Explore the different NFT tiers available.
-  <img src="./public/tier.png" alt="Tier System" width="300"/>
+  ![Tier](./public/tier.png)
 
 ---
 
@@ -44,7 +44,7 @@ Thank you for exploring **Elvis Magic**!
 
 # Elvis Magic - NFT Tanıtım Sayfası
 
-<img src="./public/home.png" alt="Elvis Magic Anasayfa" width="300"/>
+![Elvis Magic](./public/home.png)
 
 ## Genel Bakış
 
@@ -61,16 +61,16 @@ Thank you for exploring **Elvis Magic**!
 ## Sayfalar
 
 - **Anasayfa**: Elvis Magic NFT'lerin büyülü dünyasına hoş geldiniz.
-  <img src="./public/home.png" alt="Anasayfa" width="300"/>
+  ![Home](./public/home.png)
 
 - **Hakkında**: Elvis Magic'in arkasındaki vizyonu keşfedin.
-  <img src="./public/about.png" alt="Hakkında" width="300"/>
+  ![About](./public/about.png)
 
 - **Ortaklar**: Projeyi destekleyen harika ortaklarımızla tanışın.
-  <img src="./public/partner.png" alt="Ortaklar" width="300"/>
+ ![Partner](./public/partner.png)
 
 - **Seviye Sistemi**: Farklı NFT seviyelerini keşfedin.
-  <img src="./public/tier.png" alt="Seviye Sistemi" width="300"/>
+ ![Tier](./public/tier.png)
 
 ---
 
