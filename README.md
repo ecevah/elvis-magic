@@ -1,42 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Elvis Magic - NFT Promotional Page
 
-## Getting Started
+<img src="./images/home.png" alt="Elvis Magic Home" width="300"/>
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+**Elvis Magic** is a custom-designed NFT promotional website that transports users into a whole new universe, filled with captivating animations. With mesmerizing ladybug effects and smooth page transitions, users will get lost in the experience as they explore the unique world of NFTs.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- **Immersive Animations**: The site is filled with stunning animations that enhance the user experience and make navigation enjoyable.
+  
+- **Ladybug Effects**: Specially designed ladybug effects give the page a magical touch and keep users engaged as they browse.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- **Smooth Page Transitions**: As users navigate from one page to another, they will experience seamless transitions that maintain the site's fluidity and aesthetic appeal.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Pages
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Home**: Welcome to the world of Elvis Magic NFTs.
+  <img src="./images/home.png" alt="Home" width="300"/>
 
-## Learn More
+- **About**: Learn more about the vision behind Elvis Magic.
+  <img src="./images/about.png" alt="About" width="300"/>
 
-To learn more about Next.js, take a look at the following resources:
+- **Partners**: Meet our amazing partners supporting the project.
+  <img src="./images/partner.png" alt="Partners" width="300"/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Tier System**: Explore the different NFT tiers available.
+  <img src="./images/tier.png" alt="Tier System" width="300"/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+For more information or inquiries, feel free to reach out!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# elvis-magic
-# elvis-magic
-# elvis-magic
-# elvis-magic
+---
+
+Thank you for exploring **Elvis Magic**!
+
+---
+---
+---
+
+# Elvis Magic - NFT Tanıtım Sayfası
+
+<img src="./images/home.png" alt="Elvis Magic Anasayfa" width="300"/>
+
+## Genel Bakış
+
+**Elvis Magic**, özel tasarım NFT'lerin tanıtıldığı, animasyonlarla dolu bir web sitesidir. Kullanıcıları bambaşka bir evrene taşıyan bu site, büyüleyici uğur böceği efektleri ve sayfa geçişleri ile ziyaretçileri adeta kaybolmaya davet ediyor.
+
+## Öne Çıkan Özellikler
+
+- **Sürükleyici Animasyonlar**: Site, kullanıcı deneyimini artıran ve gezinmeyi keyifli hale getiren göz alıcı animasyonlarla dolu.
+  
+- **Uğur Böceği Efektleri**: Özel olarak tasarlanan uğur böceği efektleri, sayfaya büyülü bir dokunuş katıyor ve kullanıcıların ilgisini canlı tutuyor.
+
+- **Akıcı Sayfa Geçişleri**: Kullanıcılar sayfalar arasında geçiş yaparken, akıcı geçişlerle sitenin estetik yapısı korunuyor.
+
+## Sayfalar
+
+- **Anasayfa**: Elvis Magic NFT'lerin büyülü dünyasına hoş geldiniz.
+  <img src="./images/home.png" alt="Anasayfa" width="300"/>
+
+- **Hakkında**: Elvis Magic'in arkasındaki vizyonu keşfedin.
+  <img src="./images/about.png" alt="Hakkında" width="300"/>
+
+- **Ortaklar**: Projeyi destekleyen harika ortaklarımızla tanışın.
+  <img src="./images/partner.png" alt="Ortaklar" width="300"/>
+
+- **Seviye Sistemi**: Farklı NFT seviyelerini keşfedin.
+  <img src="./images/tier.png" alt="Seviye Sistemi" width="300"/>
+
+---
+
+## İletişim
+
+Daha fazla bilgi veya sorularınız için bizimle iletişime geçin!
+
+---
+
+**Elvis Magic**'i incelediğiniz için teşekkürler!
